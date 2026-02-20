@@ -2,23 +2,23 @@
   "manifest": {
     "publishingInformation": {
       "locales": {
-        "en-US": {
-          "summary": "Answer questions to hear a suggested career.",
+        "pt-BR": {
+          "summary": "Responda a perguntas sobre a lavanderia",
           "examplePhrases": [
-            "Alexa open decision tree",
-            "Alexa ask decision tree to start over",
-            "Alexa tell decision tree restart"
+            "Alexa abra lavanderia CQL",
+            "Alexa pergunte sobre qual dúvida o cliente tem",
+            "Alexa diga como se lava"
           ],
           "keywords": [
-            "career",
-            "job",
-            "decision"
+            "negócio",
+            "FAQ",
+            "lavanderia"
           ],
-          "name": "Decision Tree",
-          "description": "Ask Decision Tree for help choosing your ideal career.\n\nAlexa will provide an ideal career by asking a series of questions and giving you an answer.\n\nTo start, just say \"Alexa, launch Decision Tree\" or \"Alexa, open Decision Tree\" to get started\".\n\nAt any time, you can stop by saying \"Alexa, stop\""
+          "name": "Lavanderia CQL",
+          "description": "Pergunte a Alexa como funciona a operação da lavanderia"
         }
       },
-      "isAvailableWorldwide": true,
+      "isAvailableWorldwide": false,
       "testingInstructions": "Sample Testing Instructions.",
       "distributionCountries": []
     },
