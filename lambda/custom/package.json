@@ -1,7 +1,7 @@
 {
-  "name": "DecisionTree",
+  "name": "LavanderiaHowTo",
   "version": "2.0.0",
-  "description": "Alexa Decision Tree template",
+  "description": "Alexa Laundry Howto template",
   "main": "index.js",
   "dependencies": {
     "ask-sdk-core": "^2.0.0",
